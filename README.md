@@ -1,4 +1,4 @@
-# Ambient-Noughts-And-Crosses-Game
+# Ambient-TicTacToe-Game
 Visual and Auditory twist on the game Noughts And Crosses.
 # What I Learnt
 GUI basics,File, AudioInputStream ( clip , play), .getSource(), Mouse/Button/KeyListener
