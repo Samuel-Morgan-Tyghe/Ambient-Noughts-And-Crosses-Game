@@ -7,11 +7,18 @@ Good Combo: For loops ( new button(Integer.toString(i)),add(buttons[i]), addActi
 
 Iterate twice for 3 in a row pattern checker to save a few lines of code.
 
-123    = 000    = 000  }(++3)*2
-000    = 456    = 000  } 
-000    = 000    = 789  }
+xyz| + 3    | +3
+-----|---------|-------
+**123**  |  123  |  123 
+456  |  **456** |  456  
+789  |  789   | **789**
 
-Same principle can used for other patterns. 
+xyz| + 1    | +1
+-----|---------|-------
+**1**23  |  1**2**3  |  12**3** 
+**4**56  | 4**5**6 |  45**6** 
+**7**89  |  7**8**9   | 78**9**
+
 
 # What I learnt Afterwards
 Dispose() and restart would be cleaner
