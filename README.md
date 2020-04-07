@@ -1,13 +1,21 @@
 # Ambient-TicTacToe-Game
 Visual and Auditory twist on the game Noughts And Crosses.
 # What I Learnt
-GUI basics,File, AudioInputStream ( clip , play), .getSource(), Mouse/Button/KeyListener
+* GUI basics,File, AudioInputStream ( clip , play), .getSource(), Mouse/Button/KeyListener (implementation), Paint (gradients)
 
-place images and sounds in a resource folder in eclipse and use get.rescource to package media for code distrubition 
+* Class Hierachy: AudioInputStream isa InputStream , JButton isa AbstractButton isa Object
 
-Good Combo: For loops ( new button(Integer.toString(i)),add(buttons[i]), addActionListener, setIcon, setVisible, setRolloverIcon,setPressedIcon) 
 
-Iterate twice for 3 in a row pattern checker to save a few lines of code.
+* place images and sounds in a resource folder in eclipse and use get.rescource, this enables you to package media for code distrubition 
+
+
+* AudioSystem.getClip,   clip.open, clip.start, throw try and catch ( needs try and catch as exterior errors can occur, ie sound card issues)
+
+* Good Combo: For loops ( new button(Integer.toString(i)),add(buttons[i]), addActionListener, setIcon, setVisible, setRolloverIcon,setPressedIcon) 
+
+* Using methods Correctly
+
+* Iterate twice for 3 in a row pattern checker to save a few lines of code.
 
 xyz| + 3    | +3
 -----|---------|-------
@@ -23,9 +31,11 @@ xyz| + 1    | +1
 
 
 # What I learnt Afterwards
-Dispose() and restart would be cleaner, and I could use a TXT file to record Highscore
-spread code to multiple classes
-Windows Builder eclipse extension ( more effecient )
+* Dispose() and restart would be cleaner, and I could use a TXT file to record Highscore
+
+* Spread code to multiple classes
+
+* Windows Builder eclipse extension ( more effecient, but ugly coding ) infact Libraries in general are great for 
 
 
 
