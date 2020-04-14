@@ -35,7 +35,7 @@ xyz| + 1    | +1
 
 * Spread code to multiple classes
 
-* Windows Builder eclipse extension ( more effecient, but ugly coding ).
+* Windows Builder eclipse extension ( more effecient in the short term ).
 
 
 
