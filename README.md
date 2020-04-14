@@ -35,7 +35,7 @@ xyz| + 1    | +1
 
 * Spread code to multiple classes
 
-* Windows Builder eclipse extension ( more effecient, but ugly coding ) infact Libraries in general are great for 
+* Windows Builder eclipse extension ( more effecient, but ugly coding ).
 
 
 
