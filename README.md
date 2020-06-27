@@ -1,6 +1,6 @@
 # Ambient-TicTacToe-Game
 Visual and Auditory twist on the game Noughts And Crosses.
-# What I Learnt
+# Things I Learnt
 * GUI basics,File, AudioInputStream ( clip , play), .getSource(), Mouse/Button/KeyListener (implementation), Paint (gradients)
 
 * Class Hierachy: AudioInputStream isa InputStream , JButton isa AbstractButton isa Object
@@ -30,7 +30,7 @@ xyz| + 1    | +1
 **7**89  |  7**8**9   | 78**9**
 
 
-# What I learnt Afterwards
+# What I learnt (Update)
 * Dispose() and restart would be cleaner, and I could use a TXT file to record Highscore
 
 * Spread code to multiple classes
