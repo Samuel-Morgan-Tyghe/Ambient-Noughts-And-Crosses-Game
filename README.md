@@ -6,7 +6,7 @@ Visual and Auditory twist on the game Noughts And Crosses.
 * Class Hierachy: AudioInputStream isa InputStream , JButton isa AbstractButton isa Object
 
 
-* place images and sounds in a resource folder in eclipse and use get.rescource, this enables you to package media for code distrubition 
+* place images and sounds in a resource folder in eclipse and use get.resource, this enables you to package media for code distrubition 
 
 
 * AudioSystem.getClip,   clip.open, clip.start, throw try and catch ( needs try and catch as exterior errors can occur, ie sound card issues)
@@ -31,11 +31,11 @@ xyz| + 1    | +1
 
 
 # What I learnt (Update)
-* Dispose() and restart would be cleaner, and I could use a TXT file to record Highscore
+* Dispose() and restart would be cleaner, and I could use a TXT file to record High score
 
 * Spread code to multiple classes
 
-* Windows Builder eclipse extension ( more effecient in the short term ).
+* Windows Builder eclipse extension (more efficient in the short term).
 
 
 
